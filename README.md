@@ -35,6 +35,7 @@ A feature-rich application designed to provide film information and recommendati
   - Add TV series support.
   - Expand with runtime and director-specific filters.
   - Introduce a GUI for enhanced user experience.
+
 **Technologies Used**: Python, Flask, TMDB API, Bechdel Test API.
 
 ### 2. [Music School Booking System](https://github.com/ELanderea/BookingSystem)
@@ -62,11 +63,12 @@ An API-driven booking system designed for music schools, facilitating seamless s
 - Implement booking history for students.
 - Add options to cancel or modify bookings.
 - Generate teacher payslips based on completed lessons.
-- 
+
 **Technologies Used**: Python, Flask, MySQL.
 
 
 ## Connect with Me
+If you would like to connect then please get in touch via my LinkedIn profile below, or email me directly. 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/emerlanders)
 - **Email**: [Email](mailto:emerlanders@gmail.com)
 
