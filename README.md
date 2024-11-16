@@ -17,7 +17,7 @@ A feature-rich application designed to provide film information and recommendati
   - **By Genre**: Find films within a chosen genre.
   - **By Actress**: Discover movies featuring a specific actress.
   - **Random Picks**: Receive random movie suggestions that pass the Bechdel Test.
-- **Interactive CLI**: The user interface in main.py provides a seamless way to interact with the API and explore film data.
+- **Interactive CLI**: The user interface in `main.py` provides a seamless way to interact with the API and explore film data.
 
 **Core Functionalities:**
 - **Modular Architecture**: Separate modules for database connections, API handling, and data processing ensure maintainability.
@@ -44,18 +44,18 @@ A feature-rich application designed to provide film information and recommendati
 An API-driven booking system designed for music schools, facilitating seamless scheduling between students and teachers. This project simulates the pre-term process where students with unique IDs view available teachers, check their schedules, and book their first lessons.
 
 **Key Highlights:**
-- **Database Structure**: A robust, normalized schema (musicschool.sql) with students, teachers, and bookings tables for optimized data management.
-- **Modular Codebase**: Core operations encapsulated in db_utils.py for maintainability and ease of scalability.
-- **RESTful API**: Developed with Flask in app.py, enabling CRUD operations for student-teacher interactions.
-- **Client Interface**: main.py simulates user actions such as viewing teacher lists, checking availability, and making bookings.
+- **Database Structure**: A robust, normalized schema (`musicschool.sql`) with `students`, `teachers`, and `bookings` tables for optimized data management.
+- **Modular Codebase**: Core operations encapsulated in `db_utils.py` for maintainability and ease of scalability.
+- **RESTful API**: Developed with Flask in `app.py`, enabling CRUD operations for student-teacher interactions.
+- **Client Interface**: `main.py` simulates user actions such as viewing teacher lists, checking availability, and making bookings.
 
 **Core Functionalities:**
 - **Database Operations**: Functions for connecting to the database, retrieving teacher data, checking schedules, and creating bookings.
 - **Error Handling**: Integrated for reliability.
 - **API Endpoints**:
-  - /teachers/<instrument>: Get teachers for a specific instrument.
-  - /availability/<teacher_id>: Check a teacher's availability.
-  - /booking/<student_id> (PUT): Book a lesson.
+  - `/teachers/<instrument>`: Get teachers for a specific instrument.
+  - `/availability/<teacher_id>`: Check a teacher's availability.
+  - `/booking/<student_id>` (PUT): Book a lesson.
 
 - **User Simulation**: Demonstrates practical use cases and API interactions.
   
