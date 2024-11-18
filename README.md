@@ -66,6 +66,20 @@ An API-driven booking system designed for music schools, facilitating seamless s
 
 **Technologies Used**: Python, Flask, MySQL.
 
+### 3. [Composition Portfolio](https://www.emerlanders.com)
+
+**Overview:**
+Whilst not strictly code-related, I have a strong track record as an accomplished composer for media including film, television, and games as demonstrated by my portfolio website above.
+
+This involves an advanced level of technical ability in audio production in addition to composition. I programme audio samples to create realistic orchestral sounds and performances, record live performances, and mix and master the majority of my audio to a professional level myself, ensuring a polished, industry-standard output. My technical innovation was showcased when I won the National Best In Show Competition run by The Digital Hub in 2011 with a project that featured an original score and new instruments coded using PureData.
+
+My achievements include being admitted to BAFTA Crew programme for emerging talent, winning 3rd Prize at the International Pannonia Film Music Competition in 2020, and receiving numerous nominations for Best Score. My music has been performed at renowned venues such as the National Portrait Gallery in London, and has been placed on platforms including Disney+, ESPN, NBC Sports, Sky, NFL, Great American Family, and France 3.
+
+**Key Highlights:**
+An advanced level of composition and songwriting across multiple genres and mediums.
+Programming of high quality audio samples to get as realistic a replica as possible to a live orchestral sound. 
+Creation of loops, stings, and other adaptive musical components suitable for Video Games. 
+Professionally mixing and mastering all of my own work to a professional and polished standard. 
 
 ## Connect with Me
 If you would like to connect then please get in touch via my LinkedIn profile below, or email me directly. 
