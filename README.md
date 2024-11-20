@@ -71,7 +71,7 @@ Compared average TMDB ratings for films directed by men vs. women.
     - Female-directed films scored significantly higher on the Bechdel Test and in audience-based voting.
     - Female composers were more likely to be hired by female directors.
 
-- **Technologies Used**: Python, MySQL, SQLAlchemy, TMDB API, Bechdel Test API, Matplotlib, Seaborn.
+- **Technologies Used**: Python, MySQL, SQLAlchemy, TMDB API, Bechdel Test API, Matplotlib, Pandas.
 
 
 ### 3. [Music School Booking System](https://github.com/ELanderea/BookingSystem)
