@@ -55,7 +55,7 @@ Explored whether director gender correlates with higher Bechdel scores.
 - **Audience Reception**:
 Compared average TMDB ratings for films directed by men vs. women.
 
-**Core Functionalities:
+**Core Functionalities**:
 
 - **Data Collection**:
     - Utilised the TMDB API to retrieve film and crew details.
