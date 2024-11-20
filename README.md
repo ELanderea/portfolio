@@ -30,7 +30,6 @@ A feature-rich application designed to provide film information and recommendati
 **User Flow**:
 - **Explore Film Data**: Check if a film passes the Bechdel Test and view director/composer gender details.
 - **Get Recommendations**: By year, genre, actress, or randomly.
-- 
 - **Potential Enhancements**:
   - Add TV series support.
   - Expand with runtime and director-specific filters.
@@ -38,7 +37,44 @@ A feature-rich application designed to provide film information and recommendati
 
 **Technologies Used**: Python, Flask, TMDB API, Bechdel Test API.
 
-### 2. [Music School Booking System](https://github.com/ELanderea/BookingSystem)
+
+### 2.  [Gender Representation in the Top 250 Films of 2023](https://github.com/ELanderea/GenderRepresentationInFilm2023)
+**Overview:**
+A data-driven analysis project exploring gender representation in the highest-grossing films of 2023. Using metrics such as Bechdel Test scores and audience ratings from TMDB, the project evaluates the distribution of male vs. female directors and composers and examines whether a director's gender influences these factors.
+
+This project also investigates the relationship between director gender, Bechdel scores, and audience reception to uncover patterns in gender representation on and off-screen.
+
+**Key Highlights:**
+
+- **Director and Composer Representation**:
+Analysed gender distribution among directors and composers for the top-grossing films.
+Investigated the impact of director gender on the gender of composers hired.
+- **Bechdel Test Analysis**:
+Measured representation of women in films using Bechdel Test scores (0–3).
+Explored whether director gender correlates with higher Bechdel scores.
+- **Audience Reception**:
+Compared average TMDB ratings for films directed by men vs. women.
+
+**Core Functionalities:
+
+- **Data Collection**:
+    - Utilised the TMDB API to retrieve film and crew details.
+    - Queried the Bechdel Test API to gather representation scores for each film.
+- **Data Processing**:
+    - Cleaned and validated data to ensure consistency between multiple APIs.
+    - Stored and queried data using a MySQL database.
+- **Data Analysis**:
+    - Performed statistical analysis using Python libraries (Pandas, Matplotlib, Seaborn).
+    - Visualised insights with bar charts, pie charts, and heatmaps.
+- **Key Insights**:
+    - There is still a significant underrepresentation of both female Directors and Composers in the industry.
+    - Female-directed films scored significantly higher on the Bechdel Test and in audience-based voting.
+    - Female composers were more likely to be hired by female directors.
+
+- **Technologies Used**: Python, MySQL, SQLAlchemy, TMDB API, Bechdel Test API, Matplotlib, Seaborn.
+
+
+### 3. [Music School Booking System](https://github.com/ELanderea/BookingSystem)
 
 **Overview:**
 An API-driven booking system designed for music schools, facilitating seamless scheduling between students and teachers. This project simulates the pre-term process where students with unique IDs view available teachers, check their schedules, and book their first lessons.
@@ -66,7 +102,7 @@ An API-driven booking system designed for music schools, facilitating seamless s
 
 **Technologies Used**: Python, Flask, MySQL.
 
-### 3. [Composition Portfolio](https://www.emerlanders.com)
+### 4. [Composition Portfolio](https://www.emerlanders.com)
 
 **Overview:**
 Whilst not strictly code-related, I have a strong track record as an accomplished composer for media including film, television, and games as demonstrated by my portfolio website above.
